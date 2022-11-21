@@ -4757,6 +4757,66 @@
       }
     }
   },
+  "EternalSnow.AbyssIdols.0": {
+    "song": "Eternal Snow",
+    "illustration": "",
+    "illustration_big": "",
+    "chapter": "单曲精选集",
+    "bpm": 0,
+    "composer": "Abyss Idols",
+    "length": "",
+    "illustrator": "Sak",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.2,
+        "combo": 288,
+        "charter": "M3d1um"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.8,
+        "combo": 543,
+        "charter": "M3d1um"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.5,
+        "combo": 700,
+        "charter": "JKy"
+      }
+    }
+  },
+  "RainySeason.AbyssIdols.0": {
+    "song": "Rainy Season",
+    "illustration": "",
+    "illustration_big": "",
+    "chapter": "单曲精选集",
+    "bpm": 0,
+    "composer": "Abyss Idols",
+    "length": "",
+    "illustrator": "Robin",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.4,
+        "combo": 304,
+        "charter": "StupiGGy"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 594,
+        "charter": "StupiGGy"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 660,
+        "charter": "Raiky Season"
+      }
+    }
+  },
   "Introduction": {
     "song": "Introduction",
     "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",

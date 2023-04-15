@@ -1,5 +1,5 @@
 {
-  "pgrVersion": "2.5.0",
+  "pgrVersion": "2.5.1",
   "songData": {
     "Glaciaxion.SunsetRay.0": {
       "name": "Glaciaxion",
@@ -1885,8 +1885,8 @@
       "name": "游园地",
       "charts": {
         "EZ": {
-          "level": 2,
-          "difficulty": 2.8
+          "level": 3,
+          "difficulty": 3
         },
         "HD": {
           "level": 7,
@@ -2727,6 +2727,40 @@
         "IN": {
           "level": 15,
           "difficulty": 15.5
+        }
+      }
+    },
+    "Random.SobremSilentroom.0": {
+      "name": "Random",
+      "charts": {
+        "EZ": {
+          "level": 6,
+          "difficulty": 6
+        },
+        "HD": {
+          "level": 11,
+          "difficulty": 11.1
+        },
+        "IN": {
+          "level": 14,
+          "difficulty": 14.7
+        }
+      }
+    },
+    "零號車輛.seatrus.0": {
+      "name": "零號車輛",
+      "charts": {
+        "EZ": {
+          "level": 7,
+          "difficulty": 7
+        },
+        "HD": {
+          "level": 12,
+          "difficulty": 12.8
+        },
+        "IN": {
+          "level": 15,
+          "difficulty": 15.8
         }
       }
     },
